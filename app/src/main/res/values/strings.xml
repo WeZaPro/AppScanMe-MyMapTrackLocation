@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMapTrackLocation</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="location_permission_denied">Location permission denied</string>
+</resources>

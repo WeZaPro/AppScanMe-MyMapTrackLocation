@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "135276501885",
+    "firebase_url": "https://tracklocation-15443.firebaseio.com",
+    "project_id": "tracklocation-15443",
+    "storage_bucket": "tracklocation-15443.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135276501885:android:33c8d09474083a86e74a14",
+        "android_client_info": {
+          "package_name": "com.example.mymaptracklocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135276501885-3i20ed3emmca2mobmuo33rrrts76r08m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mymaptracklocation",
+            "certificate_hash": "bff06b9ecc7e0c3e71bf9ecb98fa9c630af4f105"
+          }
+        },
+        {
+          "client_id": "135276501885-h7q4c9p2hc5f8b2au03n59bkpjrcfh8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS-hJtgr4Ew8E6_FAQsO5_JY43WwOPPsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135276501885-h7q4c9p2hc5f8b2au03n59bkpjrcfh8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
